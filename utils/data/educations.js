@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2021 - 2023",
+    institution: "University of Burdwan",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher Secondary",
+    duration: "2019 - 2021",
+    institution: "Bishnupur High School, Bishnupur, Bankura",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Secondary School",
+    duration: "2009 - 2019",
+    institution: "Bishnupur High School, Bishnupur, Bankura",
   }
 ]
