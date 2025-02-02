@@ -1,8 +1,8 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2021 - 2023",
+    title: "Bachelor of Computer Applications (BCA)",
+    duration: "2021 - 2024",
     institution: "University of Burdwan",
   },
   {
@@ -14,7 +14,7 @@ export const educations = [
   {
     id: 3,
     title: "Secondary School",
-    duration: "2009 - 2019",
+    duration: "2014 - 2019",
     institution: "Bishnupur High School, Bishnupur, Bankura",
   }
 ]
