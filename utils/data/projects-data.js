@@ -1,12 +1,12 @@
 export const projectsData = [
     {
         id: 1,
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
-        code: '',
-        demo: '',
+        name: 'ADVANCE DRIVING ASSISTANCE SYSTEM (ADAS)',
+        description: "Our project, Advanced Driving Assistance System (ADAS), focused on building a prototype showcasing five key mechanisms: Lane Detection, Collision Avoidance, Adaptive Cruise Control, Blind Spot Monitoring, and Driver Drowsiness Detection. Each step was successfully implemented, demonstrating enhanced safety and convenience during our college’s Business Fest event and Ranked First in the whole business fest.",
+        tools: ['Arduino', 'Arduino Programming', 'Prototype creation', 'Sensors', 'Motors'],
+        role: 'Lead Programmer',
+        code: `https://github.com/Akash-Adhya/portfolio`,
+        demo: 'https://akash-adhya-portfolio.vercel.app/',
     },
     {
         id: 2,
@@ -28,12 +28,12 @@ export const projectsData = [
     },
     {
         id: 4,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-        code: '',
-        demo: '',
-        role: 'Full Stack Developer',
+        name: 'Project Heading',
+        description: "Placeholder : Here goes the description",
+        tools: ['Techs', 'that', 'are', 'going', 'to', 'be', 'used', 'goes', 'here'],
+        code: 'Links to the code',
+        demo: 'live or demo projects',
+        role: 'Your role in the project',
     }
 ];
 

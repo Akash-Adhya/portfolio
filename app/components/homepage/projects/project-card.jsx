@@ -61,6 +61,14 @@ function ProjectCard({ project }) {
             <span className="text-cyan-400">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
+          {/* {project.code !== '' ? (
+            <div className="ml-4 lg:ml-8 mr-2">
+              <span className="text-white">Link: </span>
+              <span className="text-cyan-400">{' ' + project.code}</span>
+              <span className="text-gray-400">,</span>
+              </div>
+            
+          ) : null} */}
           <div><span className="text-gray-400">{`};`}</span></div>
         </code>
       </div>
